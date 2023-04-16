@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=RoomsMemento
+comment1.params=building\ room
+comment1.target=RoomsMemento(Building,\ java.util.ArrayList)
+comment2.params=cp
+comment2.target=void\ setRooms(java.util.ArrayList)
+comment3.params=
+comment3.target=void\ restore()
+numComments=4

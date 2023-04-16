@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=DeleteRoomCommandFactory
+comment1.params=sc\ undostack\ building\ ct
+comment1.target=DeleteRoomCommandFactory(java.util.Scanner,\ java.util.Stack,\ Building,\ Caretaker)
+comment2.params=
+comment2.target=Command\ create()
+numComments=3

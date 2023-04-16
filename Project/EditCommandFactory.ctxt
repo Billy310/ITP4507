@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EditCommandFactory
+comment1.params=sc\ undostack\ built\ ct
+comment1.target=EditCommandFactory(java.util.Scanner,\ java.util.Stack,\ java.util.Vector,\ Caretaker)
+comment2.params=
+comment2.target=Command\ create()
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=EditCommand
+comment1.params=sc\ undostack\ built\ ct
+comment1.target=EditCommand(java.util.Scanner,\ java.util.Stack,\ java.util.Vector,\ Caretaker)
+comment2.params=
+comment2.target=int\ check()
+comment3.params=
+comment3.target=int\ ask()
+comment4.params=bnum
+comment4.target=Building\ getbuilding(int)
+comment5.params=
+comment5.target=void\ execute()
+comment6.params=
+comment6.target=void\ undo()
+comment7.params=
+comment7.target=void\ redo()
+numComments=8

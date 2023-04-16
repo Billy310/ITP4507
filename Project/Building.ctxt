@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Building
+comment1.params=id\ noOfRooms
+comment1.target=Building(int,\ int)
+comment10.params=
+comment10.target=void\ printBuilding()
+comment2.params=
+comment2.target=int\ getId()
+comment3.params=
+comment3.target=java.util.ArrayList\ getRooms()
+comment4.params=length\ width
+comment4.target=Room\ addRoom(double,\ double)
+comment5.params=roomNo\ length\ width
+comment5.target=void\ modifyRoom(int,\ double,\ double)
+comment6.params=roomNo
+comment6.target=void\ deleteRoom(int)
+comment7.params=roomNo
+comment7.target=void\ printRoom(int)
+comment8.params=
+comment8.target=int\ getRoomQty()
+comment9.params=
+comment9.target=void\ modifyBuilding()
+numComments=11

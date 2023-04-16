@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=EditRoomCommand
+comment1.params=sc\ building\ ct
+comment1.target=EditRoomCommand(java.util.Scanner,\ Building,\ Caretaker)
+comment2.params=
+comment2.target=int\ ask()
+comment3.params=
+comment3.target=double\ askWidth()
+comment4.params=
+comment4.target=double\ askLength()
+comment5.params=
+comment5.target=void\ execute()
+comment6.params=
+comment6.target=void\ undo()
+comment7.params=
+comment7.target=void\ redo()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BuildingMemento
+comment1.params=building\ existingbuilding
+comment1.target=BuildingMemento(Building,\ Building)
+comment2.params=building
+comment2.target=void\ setBuilding(Building)
+comment3.params=
+comment3.target=void\ restore()
+numComments=4

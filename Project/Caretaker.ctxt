@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Caretaker
+comment1.params=
+comment1.target=Caretaker()
+comment2.params=building\ room
+comment2.target=void\ saveRooms(Building,\ java.util.ArrayList)
+comment3.params=building\ existingbuilding
+comment3.target=void\ saveBuilding(Building,\ Building)
+comment4.params=
+comment4.target=void\ undo()
+comment5.params=
+comment5.target=void\ redo()
+numComments=6

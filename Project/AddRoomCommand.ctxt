@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AddRoomCommand
+comment1.params=sc\ building\ ct
+comment1.target=AddRoomCommand(java.util.Scanner,\ Building,\ Caretaker)
+comment2.params=
+comment2.target=void\ execute()
+comment3.params=
+comment3.target=void\ undo()
+comment4.params=
+comment4.target=void\ redo()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

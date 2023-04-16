@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Apartment
+comment1.params=id\ noOfRooms\ monthlyRental\ supportStaff
+comment1.target=Apartment(int,\ int,\ double,\ java.lang.String)
+comment2.params=monthlyRental
+comment2.target=void\ setMonthlyRental(double)
+comment3.params=
+comment3.target=double\ getMonthlyRental()
+comment4.params=supportStaff
+comment4.target=void\ setSupportStaff(java.lang.String)
+comment5.params=
+comment5.target=java.lang.String\ getSupportStaff()
+comment6.params=
+comment6.target=void\ modifyBuilding()
+comment7.params=
+comment7.target=void\ printBuilding()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9

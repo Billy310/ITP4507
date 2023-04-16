@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RedoCommandFactory
+comment1.params=sc\ undostack\ redostack\ built
+comment1.target=RedoCommandFactory(java.util.Scanner,\ java.util.Stack,\ java.util.Stack,\ java.util.Vector)
+comment2.params=
+comment2.target=Command\ create()
+numComments=3

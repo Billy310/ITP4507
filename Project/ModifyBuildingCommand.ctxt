@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=ModifyBuildingCommand
+comment1.params=sc\ built\ ct
+comment1.target=ModifyBuildingCommand(java.util.Scanner,\ java.util.Vector,\ Caretaker)
+comment2.params=
+comment2.target=int\ ask()
+comment3.params=
+comment3.target=double\ askMonthly()
+comment4.params=
+comment4.target=int\ asknoOfFloors()
+comment5.params=
+comment5.target=java.lang.String\ askSupportStaff()
+comment6.params=
+comment6.target=void\ execute()
+comment7.params=
+comment7.target=void\ undo()
+comment8.params=
+comment8.target=void\ redo()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=10
